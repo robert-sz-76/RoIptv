@@ -1,0 +1,299 @@
+#EXTM3U
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN Black
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.black.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN SPIN
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.spin.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AXN White
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.white.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="General",AgroTV (360p) [Not 24/7]
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",AgroTV (404p) [Not 24/7]
+https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/IqvZBeo.png" group-title="Business",Aleph Business (720p)
+https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Alfa Omega
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/alfa.omega.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.ibb.co/R20QJ3L/angelus-tv-lgoo.png" group-title="Religious",Angelus TV (720p)
+https://transmisiuni.ro/media/oracatolica/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/antena.1.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="News",Antena 1 (Observator News)
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena 3
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/antena.3.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/NF5qJMh.png" group-title="Lifestyle",Antena Monden (720p)
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena Stars
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/antena.stars.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/jp8VX4E.png" group-title="Sport",AntenaSport (720p) [Not 24/7]
+https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/5XwtFKd.png" group-title="General",Ardeal TV (720p)
+http://89.36.196.28:1936/live/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/qufz6nk.png" group-title="General",Arges TV (720p)
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Atomic Academy TV (480p)
+https://atomic.streamnet.ro/academia.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="Music",Atomic TV (360p)
+https://atomic.streamnet.ro/atomictv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",B1 TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/b1.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",BACKUS TV dark
+https://stream.backustv.ru/content/39864/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",BACKUS TV orig
+https://stream.backustv.ru/live/btv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",BACKUS TV original
+http://stream.backustv.ru/live/btv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",BACKUS TV original
+https://stream.backustv.ru/content/39837/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/yVsocid.png" group-title="General",Banat TV (720p)
+https://www.btv.ro/hls/banat-tv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Boomerang
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/boomerang.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="Undefined",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="Undefined",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Bucovina TV
+https://ch.iptvmate.net/8638921bf17f446eeb1661b195d2e7ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Bucovina TV
+https://ch.iptvmate.net/34bf0fd9c6abd39babdbacb463fb2fb1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",CBS Reality
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbs.reality.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/GFm1P51.png" group-title="Lifestyle",CaTine (720p)
+https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cartoon Network RO
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinema Classic TV
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinemax
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cinemax.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cinemax 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cinemax.2.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="Undefined",Columna TV (720p)
+http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Comedy Central
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/comedy.central.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/Vt7fObg.png" group-title="Comedy",Comedy Play (720p)
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/RD4TgcM.png" group-title="Undefined",Credo TV (720p) [Not 24/7]
+http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI 24
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.24.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI ANIMAL WORLD
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.animal.world.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI Life
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.life.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI Sport 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.sport.1.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI Sport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.sport.2.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI Sport 3
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.sport.3.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI Sport 4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.sport.4.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",DIGI WORLD
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.world.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/H3km8ic.png" group-title="News",Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/H3km8ic.png" group-title="News",Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Discovery Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.channel.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Disney Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.channel.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Disney Jr
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.junior.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Diva
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/diva.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",E! Entertainment
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/e.entertainment.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/PLlEaNG.png" group-title="Music",EMI TV (1080p)
+http://188.173.24.23:9093?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Ento
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/etno.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Epic Drama
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/epic.drama.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Eurosport 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.1.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Eurosport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Extreme Sport
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/extreme.sports.channel.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Fashion TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fashion.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Favorit
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/favorit.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Film Cafe
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/film.cafe.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Film Now
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/film.now.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/filmbox.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Extra
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/filmbox.extra.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Family
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/filmbox.family.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Plus
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/filmbox.plus.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",FilmBox Premium
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/filmbox.premium.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Fine Living
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fine.living.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Music",H!T Music Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hit.music.channel.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.2.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO 3
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.3.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Happy Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/happy.channel.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/jMrPm9p.png" group-title="Undefined",Hello Taste (720p)
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Hora
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hora.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/HY7EL5e.png" group-title="General",IasiTV Life (720p)
+https://tv.streambox.ro/hls/itv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Music",Impact TV Manele (1080p)
+https://online.tvimpact.live/hls/impact_tv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/jo5fei5.png" group-title="Undefined",Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Intermedia TV
+https://ch.iptvmate.net/7e92d15f00213b7f4a48960350ab7db1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/UzcZNe3.png" group-title="Business",JOB TV (720p)
+https://jobtvvideo.space/hls/stream/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Kanal D
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/kanal.d.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Kanal D2 (360p)
+https://stream2.kanald.ro/iphone/knd-live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Kiss TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/kiss.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Music",Kiss TV (1080p)
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Look Plus
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/look.plus.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Look Sport
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/look.sport.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/2RxQNm6.png" group-title="Religious",MISA TV (720p)
+https://vid4.misatv.ro:5050/MSTV/romanian/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/sFIqiw4.png" group-title="Music",Magic TV (720p)
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.ibb.co/PZzYqbK/MEDICOOL.png" group-title="Lifestyle",MediCOOL TV (720p)
+https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/URCiHUs.png" group-title="Weather",Meteo TV.TV (1080p)
+http://80.86.106.207:8000/play/1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/Gzq05v8.png" group-title="General",Metropola TV (1080p)
+http://81.196.109.35:1935/MetropolaTV/Metro/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/XiBna64.png" group-title="Undefined",Mireasa (720p)
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.ibb.co/Bq9CHyn/Musceltv1.png" group-title="General",Muscel TV (1080p)
+http://188.27.135.199:8099/hls/musceltv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Music",Music Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/music.channel.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Nat Geo Wild
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nat.geo.wild.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National 24 Plus
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/national.24.plus.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National Geographic
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/national.geographic.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",National TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/national.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Nick Jr
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nick.jr.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Nickelodeon
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nickelodeon.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/6IeHlF9.png" group-title="Undefined",Nova TV Brasov (576p) [Not 24/7]
+http://novapress.ro:2022/live/nova/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pro.2.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO GOLD
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pro.gold.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.ibb.co/vJG0Tb8/Logonoubun-2.jpg" group-title="General",PROFI 24 TV (576p)
+https://profi24-u3391.vm.elestio.app/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Paramount Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/paramount.channel.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/Y3p5ghv.png" group-title="Undefined",Ploiesti TV (1080p)
+https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Prima TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/prima.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro Cinema
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pro.cinema.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pro.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Pro X
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pro.x.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/xM1dw57.png" group-title="Undefined",Profit.ro
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Profit.ro
+https://ch.iptvmate.net/625ea96786f2341ff1ae4983c8e44b08.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://static.cinemagia.ro/img/tv_station/profit-ro.jpg" group-title="Undefined",Profit.ro (404p)
+https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Profit.ro (404p)
+https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO;ES" tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="Entertainment;SPAIN",ROTV Valencia (720p)
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.ibb.co/TH1T2Y2/Rapsodia-TV.png" group-title="Undefined",Rapsodia TV
+http://92.86.248.141:8080/ram/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Realitatea Sportivă (720p)
+https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Realitatea Star (720p)
+https://streamx.realitatea.net/realitatea/star_md/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Realitatea TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/realitatea.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/F69gAWa.png" group-title="Music",Rock TV (720p)
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Romania TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/romania.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/3QUH7WS.png" group-title="General",Smart TV (720p)
+https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="Music",Super TV (1084p)
+http://iptv.supertv.ro:8000/play/a001/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TLC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tlc.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TNT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tnt.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/4yZV72X.png" group-title="General",TV Arad (720p)
+https://live.djemba.ro/live/tvaradlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TV Paprika
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tv.paprika.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TV1000
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tv1000.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvr.1.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvr.2.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 3
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvr.3.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/320px-TVR_Folclor_Logo_2023.svg.png" group-title="Undefined",TVR Folclor (720p)
+https://mn-nl.mncdn.com/tvr_folclor/tvr_folclor/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Taraf
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/taraf.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="General",TeleM Botosani (540p)
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/qSd8DTI.png" group-title="Undefined",Telestar1 (360p)
+http://89.47.97.15/telestar/telestar.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.ibb.co/G5bNH48/Traditional-TV-HD.png" group-title="Music",Traditional TV (1080p)
+http://83.103.149.75:8085/udp/239.30.0.9:4000?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Trinitas
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/trinitas.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",UTV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/utv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Vh1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/vh1.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat Explore
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/viasat.explorer.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat History
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/viasat.history.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat Nature
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/viasat.nature.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Zu TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/zu.tv.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Кино",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Кино 1 International
+http://autopilot.catcast.tv/content/38617/index.m3u8?checkedby:iptvcat.com
